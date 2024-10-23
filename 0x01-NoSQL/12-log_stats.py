@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-mod doc
+mod doc doocument
 """
 from pymongo import MongoClient
 
